@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-08T11:04:48 IST" name="Default suite" finished-at="2025-04-08T11:05:32 IST" duration-ms="44475">
+    <groups>
+    </groups>
+    <test started-at="2025-04-08T11:04:48 IST" name="Default test" finished-at="2025-04-08T11:05:32 IST" duration-ms="44475">
+      <class name="Auction.test_class">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Auction.test_class@55141def]" started-at="2025-04-08T11:04:48 IST" name="setup" finished-at="2025-04-08T11:04:52 IST" duration-ms="4141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="user_login()[pri:1, instance:Auction.test_class@55141def]" started-at="2025-04-08T11:04:52 IST" name="user_login" finished-at="2025-04-08T11:04:55 IST" duration-ms="2927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_login -->
+        <test-method signature="inviting_vendor()[pri:2, instance:Auction.test_class@55141def]" started-at="2025-04-08T11:04:55 IST" name="inviting_vendor" finished-at="2025-04-08T11:05:07 IST" duration-ms="12236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inviting_vendor -->
+        <test-method signature="company_details()[pri:3, instance:Auction.test_class@55141def]" started-at="2025-04-08T11:05:07 IST" name="company_details" finished-at="2025-04-08T11:05:08 IST" duration-ms="612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- company_details -->
+        <test-method signature="adress()[pri:4, instance:Auction.test_class@55141def]" started-at="2025-04-08T11:05:08 IST" name="adress" finished-at="2025-04-08T11:05:09 IST" duration-ms="963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adress -->
+        <test-method signature="contact_info()[pri:5, instance:Auction.test_class@55141def]" started-at="2025-04-08T11:05:09 IST" name="contact_info" finished-at="2025-04-08T11:05:21 IST" duration-ms="11800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contact_info -->
+        <test-method signature="change_psw()[pri:6, instance:Auction.test_class@55141def]" started-at="2025-04-08T11:05:21 IST" name="change_psw" finished-at="2025-04-08T11:05:27 IST" duration-ms="6579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- change_psw -->
+        <test-method signature="portal_login()[pri:7, instance:Auction.test_class@55141def]" started-at="2025-04-08T11:05:27 IST" name="portal_login" finished-at="2025-04-08T11:05:32 IST" duration-ms="4993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- portal_login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Auction.test_class@55141def]" started-at="2025-04-08T11:05:32 IST" name="close" finished-at="2025-04-08T11:05:32 IST" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Auction.test_class -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
