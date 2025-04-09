@@ -1,1 +1,0 @@
-package Vendor_invitation;
